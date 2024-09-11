@@ -1,6 +1,6 @@
 # Basic HTML Website
 
-![Github last commit](https://img.shields.io/github/last-commit/Yashi-Singh-9/basic-html-website)
+![Github last commit](https://img.shields.io/github/last-commit/Yashi-Singh-9/Basic-Html-Website)
 ![GitLab License](https://img.shields.io/gitlab/license/Yashi-Singh-9/basic-html-website)
 
 This project is part of the [roadmap.sh](https://roadmap.sh/projects/basic-html-website) frontend developer roadmap. The goal of the project is to teach you how to structure a basic website using only HTML. The site is a portfolio layout with proper sections like header, footer, navigation, and main content, but without styling beyond essential layout.
