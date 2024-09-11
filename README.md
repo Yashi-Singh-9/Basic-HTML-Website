@@ -20,7 +20,7 @@ Below is a basic layout of the HTML website:
 ## Installation
 To use this project:
 1. Clone the repository:  
-   `git clone https://gitlab.com/Yashi-Singh-9/basic-html-website.git`
+   `git clone https://github.com/Yashi-Singh-9/Basic-HTML-Website.git`
 2. Open `index.html` in your browser to view the website.
 
 ## Usage
@@ -30,7 +30,6 @@ This website serves as a basic portfolio layout template using only HTML. You ca
 
 ## Support
 If you run into issues or have questions, you can:
-- Submit an issue on the [repository's issue tracker](https://gitlab.com/Yashi-Singh-9/basic-html-website.git/issues).
 - Reach out via [LinkedIn](https://www.linkedin.com/in/yashi-singh-b4143a246).
 
 ## Roadmap
@@ -51,7 +50,8 @@ Contributions are welcome! If you'd like to contribute:
 5. Open a pull request.
 
 ## Authors and Acknowledgment
-- **Yashi Singh** - Project creator and frontend developer.
+- **Yashi Singh** - Developer.
+- **Roadmap.sh** - Project Creator.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
